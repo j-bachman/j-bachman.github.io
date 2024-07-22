@@ -1,3 +1,1 @@
-theme: jekyll-theme-minimal
-title: James' homepage
-description: Bookmark this to keep an eye on my project updates!
+# j-bachman.github.io
