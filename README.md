@@ -1,1 +1,0 @@
-A static HTML p5.js sketchbook hosted via GitHub Pages.
